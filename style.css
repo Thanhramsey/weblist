@@ -103,7 +103,7 @@
   }
   
   body {
-	background-image: url("bg.jpg");; /* Thay 'path/to/your-image.jpg' bằng đường dẫn đến hình ảnh của bạn */
+	background-image: url("bg.jpg");
 	background-size: cover; /* Đảm bảo hình ảnh phủ đầy toàn bộ trang */
 	background-position: center; /* Căn giữa hình ảnh */
 	background-repeat: no-repeat; /* Không lặp lại hình ảnh */

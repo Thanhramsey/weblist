@@ -13,5 +13,5 @@ module.exports = {
       },
     },
   },
-  publicPath: process.env.NODE_ENV === "production" ? "/weblist/" : "/",
+  publicPath: process.env.NODE_ENV === "production" ? "/weblist/" : "/weblist",
 };
